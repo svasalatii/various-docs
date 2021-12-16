@@ -58,7 +58,7 @@
 * *[Blog post #1](https://digiscorp.com/blog/why-do-startups-fail/)*
 * *[Blog post #2](https://digiscorp.com/blog/a-bunch-of-reasons-to-build-a-crm-for-hospital-management/)*
 * *[Blog article](https://digiscorp.com/blog/how-to-develop-a-diabetes-control-app-like-mysugr/)*
-
+---
 #### January 2021 – to date, 	DIGICODE
 
 *Position: Technical Writer (short-term projects)*
@@ -71,7 +71,7 @@
   * *User manuals*
 
 *  *create/ draft, and publish internal documentation for Developers, DevOps, and Sales people*
-
+---
 #### April 2021 – to date, 	EDETEK Inc.
 
 *Position: Technical Writer (Content development projects)*
