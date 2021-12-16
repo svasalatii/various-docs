@@ -33,7 +33,7 @@
 
 *Examples:*
 
-* *[Marketing/Whitepaper/Soft Technical](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOcWRHMXpHUHZ6VXgyY1BST3pOcEx5TFlISDVj**)* 
+* *[Marketing](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOcWRHMXpHUHZ6VXgyY1BST3pOcEx5TFlISDVj**)* 
 * *[User Guide](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOOXhpR2VqaEtUVWRxWUxjdWd5Vi1ubEdGd0lv**)*
 
 ---
