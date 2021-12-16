@@ -18,7 +18,7 @@
 - *When*: 1998 - 2004 
 - *Where*: Mechnikov Odesa National University, Roman-German Philology Faculty, Translation and Interpretation Department
 - *What*: English and German Translator/Interpreter
-
+---
 ### Experience:
 
 #### March 2016 – March 2018,   UPITec Software Ltd.
@@ -83,7 +83,7 @@
 * *peer review documents authored/maintained by other members of the Technical Writing team and provide well-grounded comments*
 * *take part in the development of the corporate style guide*
 * *participate in meetings with Business Analysis, Development, and Customer Support teams*
-
+---
 ### Foreign languages:
 
 * *English: fluent*
