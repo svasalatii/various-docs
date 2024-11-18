@@ -59,6 +59,34 @@
 * *assist Customer Support, Design, Product depts with analyzing and implementing best UI/UX copy for the company's products*
 * *keep track of change releases and participate in various planning and feature overview meetings to be able to update the relevant documents in proper time in line with the software release plans*
 
+
+#### April 2021 – January 2022, 	EDETEK Inc.
+
+*Position: Technical Writer (Content development projects)*
+
+*Tasks and responsibilities:*
+
+* *authored new versions of the existing Company’s documents, such as user guides, release notes etc.*
+* *maintained various existing documents and updated them as per new requirements for the Product’s features and functions*
+* *peer-reviewed documents authored/maintained by other members of the Technical Writing team and provided well-grounded comments*
+* *took part in the development of the corporate style guide*
+* *participated in meetings with Business Analysis, Development, and Customer Support teams*
+
+
+#### January 2021 – February 2022, 	DIGICODE
+
+*Position: Technical Writer (short-term projects)*
+
+*Tasks and responsibilities:*
+
+* *developed various documents associated with software development, to include:*
+  * *API guides*
+  * *Deployment & integration guides*
+  * *User manuals*
+
+*  *created/ drafted, and published internal documentation for Developers, DevOps, and Sales people*
+
+
 #### March 2018 – December 2020,	Do IT Programming Solutions (now – Digis)
 
 *Position: Technical Writer*
@@ -78,33 +106,6 @@
 * *[Software Requirements Specification](**https://docs.google.com/document/d/13avZT-4zEs42rdlRJTp92m6I98UhNcikinTK69fHLJc/edit#**)*
 * *[Blog on Medium](https://digis.medium.com/)*
 * *[Blog on website](https://digiscorp.com/discovery-and-digital-landscaping-everything-you-need-to-know-to-launch-your-startup-successfully/)*
-
-
-#### January 2021 – February 2022, 	DIGICODE
-
-*Position: Technical Writer (short-term projects)*
-
-*Tasks and responsibilities:*
-
-* *developed various documents associated with software development, to include:*
-  * *API guides*
-  * *Deployment & integration guides*
-  * *User manuals*
-
-*  *created/ drafted, and published internal documentation for Developers, DevOps, and Sales people*
-
-
-#### April 2021 – January 2022, 	EDETEK Inc.
-
-*Position: Technical Writer (Content development projects)*
-
-*Tasks and responsibilities:*
-
-* *authored new versions of the existing Company’s documents, such as user guides, release notes etc.*
-* *maintained various existing documents and updated them as per new requirements for the Product’s features and functions*
-* *peer-reviewed documents authored/maintained by other members of the Technical Writing team and provided well-grounded comments*
-* *took part in the development of the corporate style guide*
-* *participated in meetings with Business Analysis, Development, and Customer Support teams*
 
 
 #### March 2016 – March 2018,   UPITec Software Ltd.
