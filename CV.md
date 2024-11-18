@@ -44,7 +44,7 @@
 
 #### February 2022 – to date, Gemshelf Inc.
 
-*Position: Technical Writer*
+*Position: Technical Writer* (full-time remote contract)
 
 *Tasks and responsibilities:*
 
@@ -58,35 +58,6 @@
 * *developed Setup guides on IdP-initiated and SP-initiated Single Sign-On feature implemented in Shelf*
 * *assist Customer Support, Design, Product depts with analyzing and implementing best UI/UX copy for the company's products*
 * *keep track of change releases and participate in various planning and feature overview meetings to be able to update the relevant documents in proper time in line with the software release plans*
-
-#### April 2021 – January 2022, 	EDETEK Inc.
-
-*Position: Technical Writer (Content development projects)*
-
-*Tasks and responsibilities:*
-
-* *authored new versions of the existing Company’s documents, such as user guides, release notes etc.*
-* *maintained various existing documents and updated them as per new requirements for the Product’s features and functions*
-* *peer-reviewed documents authored/maintained by other members of the Technical Writing team and provided well-grounded comments*
-* *took part in the development of the corporate style guide*
-* *participated in meetings with Business Analysis, Development, and Customer Support teams*
-
-#### March 2016 – March 2018,   UPITec Software Ltd.
-
-*Position: Technical Writer*
-
-*Tasks and responsibilities:*
-
-  - *developed technical (user guides, installation manuals, quick start guides, internal development procedures, statements of work etc.), commercial, and internal documents on the product*
-  - *interviewed Development, Quality Assurance, and Management teams to collect the needed information about the product, its functions, and features*
-  - *created and published blog posts, case studies, research articles for the company's website*
-
-*Examples:*
-
-* *[Marketing](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOcWRHMXpHUHZ6VXgyY1BST3pOcEx5TFlISDVj**)* 
-* *[User Guide](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOOXhpR2VqaEtUVWRxWUxjdWd5Vi1ubEdGd0lv**)*
-
----
 
 #### March 2018 – December 2020,	Do IT Programming Solutions (now – Digis)
 
@@ -108,7 +79,8 @@
 * *[Blog post #1](https://digiscorp.com/blog/why-do-startups-fail/)*
 * *[Blog post #2](https://digiscorp.com/blog/a-bunch-of-reasons-to-build-a-crm-for-hospital-management/)*
 * *[Blog article](https://digiscorp.com/blog/how-to-develop-a-diabetes-control-app-like-mysugr/)*
----
+
+
 #### January 2021 – February 2022, 	DIGICODE
 
 *Position: Technical Writer (short-term projects)*
@@ -121,7 +93,36 @@
   * *User manuals*
 
 *  *created/ drafted, and published internal documentation for Developers, DevOps, and Sales people*
----
+
+
+#### April 2021 – January 2022, 	EDETEK Inc.
+
+*Position: Technical Writer (Content development projects)*
+
+*Tasks and responsibilities:*
+
+* *authored new versions of the existing Company’s documents, such as user guides, release notes etc.*
+* *maintained various existing documents and updated them as per new requirements for the Product’s features and functions*
+* *peer-reviewed documents authored/maintained by other members of the Technical Writing team and provided well-grounded comments*
+* *took part in the development of the corporate style guide*
+* *participated in meetings with Business Analysis, Development, and Customer Support teams*
+
+
+#### March 2016 – March 2018,   UPITec Software Ltd.
+
+*Position: Technical Writer*
+
+*Tasks and responsibilities:*
+
+  - *developed technical (user guides, installation manuals, quick start guides, internal development procedures, statements of work etc.), commercial, and internal documents on the product*
+  - *interviewed Development, Quality Assurance, and Management teams to collect the needed information about the product, its functions, and features*
+  - *created and published blog posts, case studies, research articles for the company's website*
+
+*Examples:*
+
+* *[Marketing](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOcWRHMXpHUHZ6VXgyY1BST3pOcEx5TFlISDVj**)* 
+* *[User Guide](**https://drive.google.com/open?id=0Bwcd_OJ7rbbOOXhpR2VqaEtUVWRxWUxjdWd5Vi1ubEdGd0lv**)*
+
 
 ---
 ### Foreign languages:
