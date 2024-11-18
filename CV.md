@@ -76,9 +76,8 @@
 *Examples:*
 
 * *[Software Requirements Specification](**https://docs.google.com/document/d/13avZT-4zEs42rdlRJTp92m6I98UhNcikinTK69fHLJc/edit#**)*
-* *[Blog post #1](https://digiscorp.com/blog/why-do-startups-fail/)*
-* *[Blog post #2](https://digiscorp.com/blog/a-bunch-of-reasons-to-build-a-crm-for-hospital-management/)*
-* *[Blog article](https://digiscorp.com/blog/how-to-develop-a-diabetes-control-app-like-mysugr/)*
+* *[Blog on Medium](https://digis.medium.com/)*
+* *[Blog on website](https://digiscorp.com/discovery-and-digital-landscaping-everything-you-need-to-know-to-launch-your-startup-successfully/)*
 
 
 #### January 2021 – February 2022, 	DIGICODE
@@ -125,7 +124,7 @@
 
 
 ---
-### Foreign languages:
+### Language skills:
 
 * *English: fluent*
 * *German: basic*
